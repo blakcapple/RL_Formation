@@ -1,0 +1,8 @@
+__pycache__/
+.vscode
+.idea
+*.pyc
+wandb/
+runs/
+data/
+load_models/
